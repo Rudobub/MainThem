@@ -673,10 +673,10 @@ PlayerSettings:
     m_VersionCode: 1
     m_VersionName: 
   apiCompatibilityLevel: 6
-  cloudProjectId: 
+  cloudProjectId: 264553ef-a738-490f-a1a5-e97f915a4151
   framebufferDepthMemorylessMode: 0
-  projectName: 
-  organizationId: 
+  projectName: FirstGay
+  organizationId: mrvolk
   cloudEnabled: 0
   enableNativePlatformBackendsForNewInputSystem: 0
   disableOldInputManagerSupport: 0
